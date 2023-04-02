@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and welcome! 👋🏾
 
 <!--
 **JeralynP/JeralynP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a **Unity XR developer** aiming to explore the capabilities of Unity and computer graphics. 💻
+- I write code using `Java`, `Lua`, `Python`, and most often, `C#`. 👩🏾‍💻
+- I'm interested in XR (AR/VR/MR) development and CG simulations. 🌟
+- I'm also a big fan of video games and love to see how games can help shape other emerging technologies! 🎮
